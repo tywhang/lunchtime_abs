@@ -1,0 +1,22 @@
+body {
+  font-family: "Helvetica";
+  text-align: center;
+}
+
+.firm_link {
+  border: 1px solid black;
+  display: inline-block;
+  height: 10rem;
+  width: 10rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.firm_link a {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
